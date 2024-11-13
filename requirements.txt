@@ -1,0 +1,4 @@
+asyncio==3.4.3
+discord==2.3.2
+python-dotenv==1.0.1
+yt-dlp==2024.11.4
